@@ -1,0 +1,10 @@
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\bin\Debug\RandomCardSelector.exe.config
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\bin\Debug\RandomCardSelector.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\bin\Debug\RandomCardSelector.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.Form1.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.Properties.Resources.resources
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.csproj.GenerateResource.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.csproj.CoreCompileInputs.cache
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.exe
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.pdb
+C:\Users\RedWraith\Documents\Visual Studio 2019\Projects\RandomCardSelector\RandomCardSelector\obj\Debug\RandomCardSelector.csprojAssemblyReference.cache

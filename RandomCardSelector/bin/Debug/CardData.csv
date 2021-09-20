@@ -1,0 +1,33 @@
+# Format cards for this file: CardName, CardsDescription, CardType either (cardType1 or cardType2)
+# Example of data in file: Fire Ball,Burns all things that get in the way,cardType1
+# Format for displayed card type names use % but can only have 2 at any given time
+# Warning, the custom card types are only for display. they dont replace cardType1 or cardType2
+# Example of custom card type names: %EventCards,ActionCards
+#---------------------------------------------------------------------------------------------------------------
+# cardType1 = Action Cards
+# cardType2 = WorldEvents
+# set custom card names
+#%ActionCards,WorldEvents
+#cardType1
+Stun,Stuns target player until their next turn.\n\nThis effect does not stack.,cardType1
+Knock Back,Target player moves backwards 1 to 3 spaces. Roll 1 6-sided dice. 1-2: 1 space. 3-4: 2 spaces. 5-6: 3 spaces.,cardType1
+Evil Protection,Until your next turn.Any negativecards played against you will have no affect. This effect does not stack.,cardType1
+Invisibility,Casting player can not be the target of action cards that are harmful. WORLD EVENTs can and will affect you as normal. This Effect only lasts 2 turns.,cardType1
+Projection of Force,Deal 1 damage to any players health points. That players MOVEMENT CONDITION is reduced by 1. But will not go lower then INJURED MOVEMENT CONDITION.,cardType1
+Cure Poison,Casting player affected by POISONED HEALTH STATUS Sets HEALTH CONDITION to NORMAL. If you are not poisoned this card gets wasted.,cardType1
+Quick Heal,Sets HEALTH STATUS to Quick-Heal STATUS. Which heals you on your next turn as stated in the rules under HEALTH CONDITION: Quick Heal.,cardType1
+Mend Movement,Heals your MOVEMENT CONDITION by 1 status level. Incapacitated to Injured. Injured to Walking. Walking to Running. Running to Running. If you are Running already this card is wasted.,cardType1
+Free Movement,Sets MOVEMENT CONDITION to Excellent unless you are incapacitated where it will change your MOVEMENT CONDITION to Normal.,cardType1
+Swap Health,Choose a LIVING player to exchange Health Points with. On your 3rd turn from now. If you and the target players are alive. You will trade Health Points until end of game. This CANCELS if either player dies.,cardType1
+#cardType2
+Falling Trap,Take 1 health point of damqage as a fallen tree trap has fallen on you. Your MOVEMENT CONDITION gets set to INJURED.,cardType2
+Mysterious Man with potion,You Drink the potion from the man. Roll 1 6-sided dice for the effect. 1-2: get 1 health point. 3-4: Health Status sets to poisoned. 5-6: Movement Condition set to Execellent until something affects it.,cardType2
+Hit by a Falling Tree,MOVEMENT CONDITION set to Incapacitated until your next turn. Then change your MOVEMENT CONDITION TO Injured. This ends the players turn.,cardType2
+Enter a Muddy Field,MOVEMENT CONDITION reduced by 1 condition state. Running to Walking. Walking to Injured. Injured to Injured. This lasts for 2 turns then MOVEMENT CONDITION returns to previous state. Unless otherwise effected.,cardType2
+Well-Traveled Road,MOVEMENT CONDITION increased by 1 for 1 turn. Injured to Walking. Walking to Running. Running to Running.,cardType2
+Mystical Mist,Target player is surrounded by a magical mist which causes them to get lost. Move backwards 2 spaces.,cardType2
+Smoke from an Area Fire,For 6 turns each player must roll a 6-sided dice before beginning their turn. Rolling a 1-2: Take 1 damage to health points and end your turn. This effect will not stack or reset while in affect.,cardType2
+Teleport Spell,You step into a portal Move 2 spaces forward.,cardType2
+Playing with FIRE,Choose a target player. You both take 2 health points of damage.,cardType2
+An Eye for an Eye,Choose a player that has recently hurt you. Deal to them the same damage they dealth you.,cardType2
+Harmony,All Living Players gain 2 health points and can not be harmed by any Action Card until players next turn.,cardType2

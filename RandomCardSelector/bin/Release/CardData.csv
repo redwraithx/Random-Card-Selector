@@ -1,0 +1,25 @@
+%Action Cards,World Events,
+#cardType1,,
+Stun,Stuns target player until their next turn.<br /><br />This effect does not stack.,cardType1
+Knock Back,Target player moves backwards 1 to 3 spaces.<br /><br />Roll 1<?> 6-sided dice:<br /><br />1-2: 1 space.<br />3-4: 2 spaces.<br />5-6: 3 spaces.,cardType1
+Evil Protection,Until your next turn.<br /><br />Any negative cards played against you from action cards will have no affect.<br /><br />World Events can and will effect effect you as normal.<br /><br />This effect does not stack,cardType1
+Invisibility,Casting player can not be the target of action cards that are harmful.<br /><br />World Events can and will effect effect you as normal.<br /><br />This Effect only lasts 2 turns.,cardType1
+Projection of Force,Deal 1 damage to any players health points.<br /><br />That players movement condition is reduced by 1 negative level but will not go lower then injured condition.<br /><br />Running to Walking<br />Walking to Injured<br />Injured to Injured,cardType1
+Cure Poison,Casting player affected by “Poisoned Health Status”.<br /><br />Sets Health Condition to Normal if you are poisoned.<br /><br />If you are not poisoned this card does nothing.,cardType1
+Quick Heal,Sets Health Status to Quick-Heal Status.<br /><br />Which heals you for 2 health points on your next turn.<br /><br />Health Status returns to normal after you heal.,cardType1
+Mend Movement,Heals your movement Condition by one positive status level.<br /><br />Incapacitated to Injured.<br /><br />Injured to Walking.<br />Walking to Running.<br />Running to Running.<br /><br />If you are Running already this card is wasted.,cardType1
+Free Movement,Sets Movment Condition to Running.<br /><br />Unless you are incapacitated where it will change your movement condition to Normal.<br /><br />This lasts for 2 turns then reduce your movement condition by 1 level.,cardType1
+Swap Health,Choose a “living” player to exchange Health Points with.<br /><br />On your 3rd turn  if you and the target player are alive.<br /><br />You will have his health points and he will get yours.<br /><br />This Cancels if either player dies,cardType1
+#cardType2,,
+Falling Trap,you take 1 health point damage.<br /><br />A fallen tree trap has fallen on you.<br /><br />Your Movement Condition gets set to Injured.,cardType2
+Mysterious Man with potion,You Drink a potion from the dark figure.<br /><br />Roll 1<?> 6-sided dice:<br /><br />1: get 1 health point.<br /><br />2 or 3 or 4: Health Status<br />    set to poisoned.<br /><br />5: Movement Condition<br />    set to Execellent until<br />    something affects it.<br /><br />6: Health Status Set to<br />   Regeneration,cardType2
+Hit by a Falling Tree,Your Movement Condition gets set to Incapacitated until your next turn.<br /><br />Then Change your Movement Condition to Injured.<br /><br />This ends your turn.,cardType2
+Enter a Muddy Field,Reduced your Condition State by 1:<br /><br />Running to Walking.<br />Walking to Injured.<br />Injured to Injured.<br /><br />This lasts for 2 turns.<br /><br />Movement Condition Increases by 1 after 2 turns.<br /><br />Return to previous state unless something else affted you.,cardType2
+Well-Traveled Road,Your movement condition increased by 1 for 1 turn.<br /><br />Injured to Walking.<br />Walking to Running.<br />Running to Running.<br /><br />Return to previous state.<br /><br />Unless something else affected this state.,cardType2
+Mystical Mist,You are surrounded by a magical mist which causes you to get lost.<br /><br />Move Backwards 2 spaces and ending your turn.,cardType2
+Smoke from an Area Fire,For 6 turns.<br /><br />All players must roll a single 6-sided dice before beginning their turn.<br /><br />Rolling a 1 or 2: take 1 health damage and end your turn else play as normal.<br /><br />This Effect will not stack or reset while in affect.,cardType2
+Teleport Spell,You Step into a portal.<br /><br />Roll 1 6-sided dice:<br /><br />1: Move 2 spaces forward.<br />2: Move 1 spaces forward.<br />3 to 5: Move 2 spaces backwards<br />6: Move 3 spaces backwards.,cardType2
+Playing with FIRE,Choose a target player you both take 2 health damage.,cardType2
+An Eye for an Eye,Choose a player that has recently hurt you.<br /><br />Deal to them the same damage they dealt you.<br /><br />If no players have harmed you take 1 health damage.<br /><br />End your turn.,cardType2
+Harmony,All living players gain 2 health points and can not be harmed by any Action cards.<br /><br />World events wont do damage but will otherwise work as intended.<br /><br />This lasts until each players next turn.,cardType2
+Test Card Name,This is just a test card,cardType2
